@@ -1,0 +1,44 @@
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe.config
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\RibbonBar.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\MainWindow.baml
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\App.g.cs
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\RibbonBar_MarkupCompile.cache
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\RibbonBar.g.resources
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\RibbonBar.Properties.Resources.resources
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\RibbonBar.csproj.GenerateResource.Cache
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\bin\Debug\RibbonBar.pdb
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\RibbonBar.exe
+C:\Users\Nguyen_Dat\Desktop\RibbonBar\RibbonBar\obj\Debug\RibbonBar.pdb
+C:\Users\Nguyen_Dat\Desktop\1312124\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe.config
+C:\Users\Nguyen_Dat\Desktop\1312124\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.exe
+C:\Users\Nguyen_Dat\Desktop\1312124\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.pdb
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe.config
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.exe
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.pdb
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.pdb
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\MainWindow.baml
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\App.g.cs
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar_MarkupCompile.cache
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.g.resources
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.Properties.Resources.resources
+C:\Users\Nguyen_Dat\Desktop\1312124_7\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.csproj.GenerateResource.Cache
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe.config
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.exe
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.pdb
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.pdb
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\MainWindow.baml
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\MainWindow.g.cs
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\App.g.cs
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar_MarkupCompile.cache
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.g.resources
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.Properties.Resources.resources
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiến độ 2\1312124_8\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.csproj.GenerateResource.Cache
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiien do 5\New folder\1312124_9\sourse code\RibbonBar\RibbonBar\bin\Debug\RibbonBar.exe.config
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiien do 5\New folder\1312124_9\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.exe
+D:\Hoc tập\Nam 3\Lập trình win lớp 2\Do an Mypaint\tiien do 5\New folder\1312124_9\sourse code\RibbonBar\RibbonBar\obj\Debug\RibbonBar.pdb

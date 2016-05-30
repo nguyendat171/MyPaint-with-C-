@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RibbonBar", "RibbonBar\RibbonBar.csproj", "{B3F14896-0621-4B6F-A147-9450FA22072F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F14896-0621-4B6F-A147-9450FA22072F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F14896-0621-4B6F-A147-9450FA22072F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F14896-0621-4B6F-A147-9450FA22072F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F14896-0621-4B6F-A147-9450FA22072F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
